@@ -1,5 +1,9 @@
 [![Build Status](https://travis-ci.org/jgraph/draw.io.png?branch=master)](https://travis-ci.org/jgraph/draw.io)
 
+Run
+---
+Go to my [GitHub Pages](https://attie.github.io/draw.io/war/index.html) site.
+
 About
 -----
 [draw.io](https://www.draw.io) is an online diagramming web site that delivers the source in this project.
